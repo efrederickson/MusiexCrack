@@ -1,0 +1,9 @@
+Package: com.musiexcrack
+Name: MusiexCrack
+Depends: mobilesubstrate
+Version: 0HAXOR
+Architecture: iphoneos-arm
+Description: SM0K3 MUS13X 3V3RYD4Y
+Maintainer: Elijah Frederickson
+Author: Elijah Frederickson
+Section: Tweaks
